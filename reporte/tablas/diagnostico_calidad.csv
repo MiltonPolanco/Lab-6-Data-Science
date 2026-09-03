@@ -1,0 +1,13 @@
+﻿conjunto,indicador,valor
+videos,filas,293
+videos,columnas,20
+videos,faltantes/celdas vacias,77
+videos,filas duplicadas,0
+videos,video_id duplicada,0
+videos,variables constantes,0
+comentarios,filas,406
+comentarios,columnas,17
+comentarios,faltantes/celdas vacias,595
+comentarios,filas duplicadas,0
+comentarios,comment_id duplicada,0
+comentarios,variables constantes,2

@@ -1,0 +1,164 @@
+{
+  "videos": 293,
+  "canales": 97,
+  "comentarios": 406,
+  "autores": 332,
+  "videos_con_comentarios": 19,
+  "comentarios_integrados": 406,
+  "comentarios_sin_video": 0,
+  "view_text_validos": 280,
+  "view_text_diferencias_con_view_count": 53,
+  "likes_blancos_convertidos_cero": 189,
+  "correlacion_pearson_vistas_comentarios": -0.008393070918161024,
+  "correlacion_spearman_vistas_comentarios": 0.08032343882513514,
+  "correlacion_spearman_solo_comentados": 0.8114968240951833,
+  "autores_recurrentes": 9,
+  "max_videos_por_autor": 3,
+  "pares_video_con_audiencia_compartida": 11,
+  "nodos_bipartita": 625,
+  "nodos_autor": 332,
+  "nodos_video": 293,
+  "aristas_bipartita": 343,
+  "suma_pesos_aristas": 406,
+  "videos_aislados": 274,
+  "componentes_totales": 284,
+  "componentes_no_triviales": 10,
+  "tamano_componente_mayor": 286,
+  "autores_articulacion_preliminar": 7,
+  "videos_articulacion_preliminar": 15,
+  "texto": {
+    "registros": 406,
+    "modificados": 403,
+    "vacios_antes": 0,
+    "vacios_despues": 6,
+    "duplicados_antes": 2,
+    "duplicados_despues": 12,
+    "registros_eliminados": 0
+  },
+  "top_palabras": [
+    [
+      "pueblo",
+      56
+    ],
+    [
+      "guatemala",
+      52
+    ],
+    [
+      "dinero",
+      34
+    ],
+    [
+      "solo",
+      33
+    ],
+    [
+      "todos",
+      33
+    ],
+    [
+      "presidente",
+      32
+    ],
+    [
+      "país",
+      31
+    ],
+    [
+      "trabajo",
+      30
+    ],
+    [
+      "diputados",
+      28
+    ],
+    [
+      "tienen",
+      24
+    ]
+  ],
+  "top_bigramas": [
+    [
+      "presidente bernardo",
+      9
+    ],
+    [
+      "bernardo arevalo",
+      8
+    ],
+    [
+      "ciudad guatemala",
+      6
+    ],
+    [
+      "nery rodas",
+      5
+    ],
+    [
+      "bla bla",
+      5
+    ],
+    [
+      "pacto corruptos",
+      5
+    ],
+    [
+      "viva guatemala",
+      4
+    ],
+    [
+      "busquen trabajo",
+      4
+    ],
+    [
+      "todos proyectos",
+      4
+    ],
+    [
+      "sería bueno",
+      4
+    ]
+  ],
+  "top_hashtags": [
+    [
+      "guatemala",
+      48
+    ],
+    [
+      "larondagt",
+      29
+    ],
+    [
+      "noticias",
+      14
+    ],
+    [
+      "envivodca",
+      12
+    ],
+    [
+      "nacionales",
+      7
+    ],
+    [
+      "like",
+      7
+    ],
+    [
+      "comenta",
+      7
+    ],
+    [
+      "comparte",
+      7
+    ],
+    [
+      "siguenos",
+      7
+    ],
+    [
+      "protegeryservir",
+      6
+    ]
+  ]
+}
