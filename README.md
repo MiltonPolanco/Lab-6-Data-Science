@@ -2,7 +2,7 @@
 
 **CC3084 — Data Science, Universidad del Valle de Guatemala**
 **Integrantes:** Milton Polanco y Osman de León
-**Repositorio:** https://github.com/MiltonPolanco/Lab-6-Data-ScienceCC3084
+**Repositorio:** https://github.com/MiltonPolanco/Lab-6-Data-Science
 
 ## Descripción
 
