@@ -1,0 +1,7 @@
+﻿red,medida,valor
+bipartita autor-video,clustering bipartito promedio (nx.bipartite.clustering),0.5009704076183465
+bipartita autor-video,Robins-Alexander bipartite clustering,0.0076263107721639654
+proyeccion autor-autor,transitividad,0.9840254741148836
+proyeccion autor-autor,clustering promedio,0.9720487679984025
+proyeccion video-video,transitividad,0.3157894736842105
+proyeccion video-video,clustering promedio,0.009670079635949942

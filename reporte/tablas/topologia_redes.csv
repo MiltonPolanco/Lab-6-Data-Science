@@ -1,0 +1,4 @@
+﻿red,nodos,aristas,densidad,grado_medio,grado_maximo,componentes,tamano_componente_mayor,pct_componente_mayor,nodos_aislados
+bipartita autor-video,625,343,0.0017589743589743589,1.0976,128,284,286,45.76,274
+proyeccion autor-autor,332,10732,0.19531904051250318,64.65060240963855,183,10,276,83.13253012048193,4
+proyeccion video-video,293,11,0.0002571415213427463,0.07508532423208192,4,284,10,3.4129692832764507,283
